@@ -9,5 +9,11 @@ $ sh bin/docker_run.sh
 ```
 
 親イメージ
-https://github.com/BVLC/caffe/tree/master/docker
 https://hub.docker.com/r/bvlc/caffe
+
+Caffeリポジトリ
+https://github.com/BVLC/caffe
+
+Caffe公式
+https://caffe.berkeleyvision.org/
+
