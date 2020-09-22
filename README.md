@@ -4,6 +4,7 @@
 コンテナとのデータのやり取りにはworkディレクトリを用いてください（ただし，コンテナ内部のパスは'/workspace'）．treeのrootもworkディレクトリになっているので，notebookも共有されています．
 なお，このコマンド内でmstat/caffe:jupyterというイメージが作成されます．
 ```
+$ git clone https://github.com/u-takuya0528/caffe.git
 $ sh bin/docker_build.sh
 $ sh bin/docker_run.sh
 ```
